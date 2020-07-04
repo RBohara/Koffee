@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+
+.text-primary {
+    color: #fff;
+    font-family: 'Yellowtail', cursive;
+    font-size: 45px;
+}
+
+/*.txt-secondary {
+    
+} */
+
+/* Button */
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #9c5518;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+}
+
+.btn-primary {
+    background: #9c5518;
+    color: #fff;
+}
+
+/* .btn-secondary {
+    
+} */
+
+.btn-dark {
+    background: #333;
+    color: #fff;
+}
+
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
